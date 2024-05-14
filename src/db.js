@@ -1,3 +1,4 @@
+//Documento que faz a documentação com o banco de dados
 const mysql = require('mysql');
 
 const connection = mysql.createConnection({
