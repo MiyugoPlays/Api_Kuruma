@@ -1,6 +1,6 @@
-CREATE DATABASE bdApiKuruma;
+CREATE DATABASE dbapicarros;
 
-use bdApiKuruma;
+use dbapicarros;
 
 CREATE TABLE carros
 (
